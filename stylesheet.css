@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'TT Hoves';
-    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-BlackItalic.eot');
+    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-BlackItalic.eot?raw=true');
     src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-BlackItalic.eot?#iefix') format('embedded-opentype'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-BlackItalic.woff2') format('woff2'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-BlackItalic.woff') format('woff'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-BlackItalic.ttf') format('truetype');
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-BlackItalic.woff2?raw=true') format('woff2'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-BlackItalic.woff?raw=true') format('woff'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-BlackItalic.ttf?raw=true') format('truetype');
     font-weight: 900;
     font-style: italic;
     font-display: swap;
@@ -12,11 +12,11 @@
 
 @font-face {
     font-family: 'TT Hoves';
-    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Black.eot');
+    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Black.eot?raw=true');
     src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Black.eot?#iefix') format('embedded-opentype'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Black.woff2') format('woff2'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Black.woff') format('woff'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Black.ttf') format('truetype');
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Black.woff2?raw=true') format('woff2'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Black.woff?raw=true') format('woff'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Black.ttf?raw=true') format('truetype');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -24,11 +24,11 @@
 
 @font-face {
     font-family: 'TT Hoves';
-    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-BoldItalic.eot');
+    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-BoldItalic.eot?raw=true');
     src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-BoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-BoldItalic.woff2') format('woff2'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-BoldItalic.woff') format('woff'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-BoldItalic.ttf') format('truetype');
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-BoldItalic.woff2?raw=true') format('woff2'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-BoldItalic.woff?raw=true') format('woff'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-BoldItalic.ttf?raw=true') format('truetype');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -36,11 +36,11 @@
 
 @font-face {
     font-family: 'TT Hoves';
-    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Bold.eot');
+    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Bold.eot?raw=true');
     src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Bold.eot?#iefix') format('embedded-opentype'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Bold.woff2') format('woff2'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Bold.woff') format('woff'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Bold.ttf') format('truetype');
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Bold.woff2?raw=true') format('woff2'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Bold.woff?raw=true') format('woff'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Bold.ttf?raw=true') format('truetype');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -48,11 +48,11 @@
 
 @font-face {
     font-family: 'TT Hoves';
-    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-DemiBoldItalic.eot');
+    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-DemiBoldItalic.eot?raw=true');
     src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-DemiBoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-DemiBoldItalic.woff2') format('woff2'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-DemiBoldItalic.woff') format('woff'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-DemiBoldItalic.ttf') format('truetype');
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-DemiBoldItalic.woff2?raw=true') format('woff2'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-DemiBoldItalic.woff?raw=true') format('woff'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-DemiBoldItalic.ttf?raw=true') format('truetype');
     font-weight: 600;
     font-style: italic;
     font-display: swap;
@@ -60,11 +60,11 @@
 
 @font-face {
     font-family: 'TT Hoves';
-    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-DemiBold.eot');
+    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-DemiBold.eot?raw=true');
     src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-DemiBold.eot?#iefix') format('embedded-opentype'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-DemiBold.woff2') format('woff2'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-DemiBold.woff') format('woff'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-DemiBold.ttf') format('truetype');
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-DemiBold.woff2?raw=true') format('woff2'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-DemiBold.woff?raw=true') format('woff'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-DemiBold.ttf?raw=true') format('truetype');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -72,11 +72,11 @@
 
 @font-face {
     font-family: 'TT Hoves';
-    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraBoldItalic.eot');
+    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraBoldItalic.eot?raw=true');
     src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraBoldItalic.woff2') format('woff2'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraBoldItalic.woff') format('woff'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraBoldItalic.ttf') format('truetype');
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraBoldItalic.woff2?raw=true') format('woff2'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraBoldItalic.woff?raw=true') format('woff'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraBoldItalic.ttf?raw=true') format('truetype');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -84,11 +84,11 @@
 
 @font-face {
     font-family: 'TT Hoves';
-    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraBold.eot');
+    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraBold.eot?raw=true');
     src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraBold.eot?#iefix') format('embedded-opentype'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraBold.woff2') format('woff2'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraBold.woff') format('woff'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraBold.ttf') format('truetype');
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraBold.woff2?raw=true') format('woff2'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraBold.woff?raw=true') format('woff'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraBold.ttf?raw=true') format('truetype');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -96,11 +96,11 @@
 
 @font-face {
     font-family: 'TT Hoves';
-    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraLightItalic.eot');
+    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraLightItalic.eot?raw=true');
     src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraLightItalic.woff2') format('woff2'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraLightItalic.woff') format('woff'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraLightItalic.ttf') format('truetype');
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraLightItalic.woff2?raw=true') format('woff2'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraLightItalic.woff?raw=true') format('woff'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraLightItalic.ttf?raw=true') format('truetype');
     font-weight: 200;
     font-style: italic;
     font-display: swap;
@@ -108,11 +108,11 @@
 
 @font-face {
     font-family: 'TT Hoves';
-    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraLight.eot');
+    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraLight.eot?raw=true');
     src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraLight.eot?#iefix') format('embedded-opentype'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraLight.woff2') format('woff2'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraLight.woff') format('woff'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraLight.ttf') format('truetype');
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraLight.woff2?raw=true') format('woff2'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraLight.woff?raw=true') format('woff'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ExtraLight.ttf?raw=true') format('truetype');
     font-weight: 200;
     font-style: normal;
     font-display: swap;
@@ -120,11 +120,11 @@
 
 @font-face {
     font-family: 'TT Hoves Hairline';
-    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-HairlineItalic.eot');
+    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-HairlineItalic.eot?raw=true');
     src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-HairlineItalic.eot?#iefix') format('embedded-opentype'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-HairlineItalic.woff2') format('woff2'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-HairlineItalic.woff') format('woff'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-HairlineItalic.ttf') format('truetype');
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-HairlineItalic.woff2?raw=true') format('woff2'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-HairlineItalic.woff?raw=true') format('woff'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-HairlineItalic.ttf?raw=true') format('truetype');
     font-weight: 100;
     font-style: italic;
     font-display: swap;
@@ -132,11 +132,11 @@
 
 @font-face {
     font-family: 'TT Hoves Hairline';
-    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Hairline.eot');
+    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Hairline.eot?raw=true');
     src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Hairline.eot?#iefix') format('embedded-opentype'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Hairline.woff2') format('woff2'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Hairline.woff') format('woff'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Hairline.ttf') format('truetype');
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Hairline.woff2?raw=true') format('woff2'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Hairline.woff?raw=true') format('woff'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Hairline.ttf?raw=true') format('truetype');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -144,11 +144,11 @@
 
 @font-face {
     font-family: 'TT Hoves';
-    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Italic.eot');
+    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Italic.eot?raw=true');
     src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Italic.eot?#iefix') format('embedded-opentype'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Italic.woff2') format('woff2'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Italic.woff') format('woff'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Italic.ttf') format('truetype');
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Italic.woff2?raw=true') format('woff2'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Italic.woff?raw=true') format('woff'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Italic.ttf?raw=true') format('truetype');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
@@ -156,11 +156,11 @@
 
 @font-face {
     font-family: 'TT Hoves';
-    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-LightItalic.eot');
+    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-LightItalic.eot?raw=true');
     src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-LightItalic.eot?#iefix') format('embedded-opentype'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-LightItalic.woff2') format('woff2'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-LightItalic.woff') format('woff'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-LightItalic.ttf') format('truetype');
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-LightItalic.woff2?raw=true') format('woff2'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-LightItalic.woff?raw=true') format('woff'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-LightItalic.ttf?raw=true') format('truetype');
     font-weight: 300;
     font-style: italic;
     font-display: swap;
@@ -168,11 +168,11 @@
 
 @font-face {
     font-family: 'TT Hoves';
-    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Light.eot');
+    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Light.eot?raw=true');
     src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Light.eot?#iefix') format('embedded-opentype'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Light.woff2') format('woff2'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Light.woff') format('woff'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Light.ttf') format('truetype');
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Light.woff2?raw=true') format('woff2'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Light.woff?raw=true') format('woff'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Light.ttf?raw=true') format('truetype');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -180,11 +180,11 @@
 
 @font-face {
     font-family: 'TT Hoves';
-    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-MediumItalic.eot');
+    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-MediumItalic.eot?raw=true');
     src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-MediumItalic.eot?#iefix') format('embedded-opentype'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-MediumItalic.woff2') format('woff2'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-MediumItalic.woff') format('woff'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-MediumItalic.ttf') format('truetype');
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-MediumItalic.woff2?raw=true') format('woff2'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-MediumItalic.woff?raw=true') format('woff'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-MediumItalic.ttf?raw=true') format('truetype');
     font-weight: 500;
     font-style: italic;
     font-display: swap;
@@ -192,11 +192,11 @@
 
 @font-face {
     font-family: 'TT Hoves';
-    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Medium.eot');
+    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Medium.eot?raw=true');
     src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Medium.eot?#iefix') format('embedded-opentype'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Medium.woff2') format('woff2'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Medium.woff') format('woff'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Medium.ttf') format('truetype');
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Medium.woff2?raw=true') format('woff2'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Medium.woff?raw=true') format('woff'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Medium.ttf?raw=true') format('truetype');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -204,11 +204,11 @@
 
 @font-face {
     font-family: 'TT Hoves';
-    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Regular.eot');
+    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Regular.eot?raw=true');
     src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Regular.eot?#iefix') format('embedded-opentype'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Regular.woff2') format('woff2'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Regular.woff') format('woff'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Regular.ttf') format('truetype');
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Regular.woff2?raw=true') format('woff2'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Regular.woff?raw=true') format('woff'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Regular.ttf?raw=true') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -216,11 +216,11 @@
 
 @font-face {
     font-family: 'TT Hoves';
-    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ThinItalic.eot');
+    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ThinItalic.eot?raw=true');
     src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ThinItalic.eot?#iefix') format('embedded-opentype'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ThinItalic.woff2') format('woff2'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ThinItalic.woff') format('woff'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ThinItalic.ttf') format('truetype');
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ThinItalic.woff2?raw=true') format('woff2'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ThinItalic.woff?raw=true') format('woff'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-ThinItalic.ttf?raw=true') format('truetype');
     font-weight: 100;
     font-style: italic;
     font-display: swap;
@@ -228,11 +228,11 @@
 
 @font-face {
     font-family: 'TT Hoves';
-    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Thin.eot');
+    src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Thin.eot?raw=true');
     src: url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Thin.eot?#iefix') format('embedded-opentype'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Thin.woff2') format('woff2'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Thin.woff') format('woff'),
-        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Thin.ttf') format('truetype');
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Thin.woff2?raw=true') format('woff2'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Thin.woff?raw=true') format('woff'),
+        url('https://github.com/dev-avology/sunrider-fonts/blob/main/TTHoves-Thin.ttf?raw=true') format('truetype');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
